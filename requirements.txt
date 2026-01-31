@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+twilio
+openai
+deepgram-sdk
+websockets
+pydantic-settings
